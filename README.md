@@ -1,7 +1,6 @@
 # VBA-Business-Automation-Prototype
 Demonstrating logical process optimization and modular programming through VBA.
 
-Markdown
 # VBA Business Process Automation: From Manual Work to 1-Click Logic
 
 ## 📌 Vision: Empowering Productivity through Logic
@@ -39,3 +38,6 @@ The logic established here will be migrated to a modern cloud stack:
 ---
 **Ryo Goto** | IT Operations & Project Management Professional
 *Currently bridging Psychology and Technology to lead organizational DX.*
+
+### Execution Result
+![VBA Automation Result](vba-execution-result.png)
